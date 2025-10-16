@@ -1,6 +1,8 @@
-const post = [
+const posts = [
         {id: 1,
-        title: word}
+        title: 'word'}
 ];
 
-export const getpost  = () => post;
+const getposts  = () => posts;
+
+export default getposts;
